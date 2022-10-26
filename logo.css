@@ -232,10 +232,12 @@ html,body{
   color: #fff;
 } 
 .Homebutton{
- height: auto;
- padding-top: 3px;
- float: left;
- margin-right: 6px;
+  height: auto;
+  margin-top: 5px  ;
+  padding-top: 3px;
+  float: left;
+  margin-right: 6px;
+   
   
 }
 .wrapper{
@@ -279,6 +281,8 @@ html,body{
   text-align: center;
 }
 .Menubutton{
+  margin-top: 8px;
+  margin-right: 6px;
   float: right;
 }
 .center{
